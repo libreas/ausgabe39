@@ -1,2 +1,2 @@
 ---
-**Dominic Göring** ORCiD: <https://orcid.org/0000-0002-2832-6497>
+**Dominic Göring** arbeitet in der Universitätsbibliothek der Humboldt-Universität zu Berlin im Bereich Open Access und Autorenbetreuung. Nach einem Magisterabschluss in Neuere Deutsche Literatur und Psychologie an der Ludwig-Maximilians-Universität München studiert er aktuell berufsbegleitend Bibliotheks- und Informationswissenschaft an der Humboldt-Universität zu Berlin. ORCiD: <https://orcid.org/0000-0002-2832-6497>
