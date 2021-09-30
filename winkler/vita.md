@@ -1,0 +1,2 @@
+---
+**Christian Winkler**  hat Romanistik und Geschichtswissenschaft studiert und ist seit 2018 Mitarbeiter im FID Geschichtswissenschaft und Leiter des Benutzungsbetriebs und des Google-Projekts der Bibliothek des Deutschen Museums.
