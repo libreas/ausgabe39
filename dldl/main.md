@@ -92,7 +92,7 @@ Die meisten Nutzer\*innen suchten Plätze am Fenster, auch wenn es solche
 gab, die Orte mit anderen Qualitäten bevorzugten. Ebenso zeigten sich
 viele Nutzer\*innen nicht von speziellen Sitzgelegenheiten beeindruckt:
 Mehr als die Hälfte bevorzugte einfache Tische und Stühle, erst dann
-bequemere Stühle oder individuelle Quarrels. Couches bevorzugten nur 5%,
+bequemere Stühle oder individuelle Quarrels. Couches bevorzugten nur 5&#8239;%,
 Sitzsäcke fielen ganz durch. Oder anders: Die Nutzer\*innen wollen
 (auch) in der Bibliothek vor allem klassische Arbeitsplätze und die
 Bibliothek hauptsächlich zum Lernen nutzen. (ks)
@@ -191,7 +191,7 @@ Mamtora, Jayshree, Ovaska, Claire, and Mathiesen, Bronwyn (2021).
 *Reconciliation in Australia: the role of the academic library in
 empowering the Indigenous community*. In: IFLA Journal \[Online First\],
 2021,
-[https://doi.org/10.1177%2F0340035220987578](https://doi.org/10.1177%2F0340035220987578)
+[https://doi.org/10.1177/0340035220987578](https://doi.org/10.1177/0340035220987578)
 \[Paywall\],
 [https://researchonline.jcu.edu.au/65807/](https://researchonline.jcu.edu.au/65807/)
 \[OA-Version\]
@@ -310,10 +310,10 @@ Alajmi und Albudaiwi analysieren in dieser Studie die Tweets, welche von
 38 der 222 Bibliotheken einen aktiven Twitter-Account haben. Andere
 nutzen wohl andere Kanäle.) Die Frage war, wie sich die COVID-19
 Pandemie in diesen Tweets widerspiegelt. Sie tut das zum Teil. Der
-grösste Teil der Tweets (85,5%) hatte Informationen zum Betrieb der
+grösste Teil der Tweets (85,5&#8239;%) hatte Informationen zum Betrieb der
 Bibliotheken zum Thema (zum Beispiel Schliessungen, Lieferdienste für
 Medien, Literaturempfehlungen, Veranstaltungshinweise). Die anderen
-14,5% bezogen sich direkt auf die Pandemie. Hier wurden vor allem
+14,5&#8239;% bezogen sich direkt auf die Pandemie. Hier wurden vor allem
 Hinweise auf Hilfsdienstleistungen in der Community, aufmunternde
 Nachrichten oder Hinweise auf weitergehende Quellen zur Pandemie und
 Verhaltenshinweisen gepostet. Laut den Autorinnen übernahmen die
@@ -404,7 +404,7 @@ Perspectives 36 (2020) 4, 429--439,
 \[Paywall\]
 
 Das interessante Ergebnis der Umfrage, das in diesem Artikel präsentiert
-wird, ist, dass 60% der befragten Universitätsangehörigen in Kuwait die
+wird, ist, dass 60&#8239;% der befragten Universitätsangehörigen in Kuwait die
 elektronischen Medien der Bibliothek gar nicht genutzt haben. In den
 Schilderungen vieler Bibliotheken, was sich während der
 COVID-19-Pandemie bei ihnen verändert hat, stehen diese Medien und der
@@ -479,7 +479,7 @@ lässt. (vv)
 Hicks, Alison; Lloyd, Annemaree (2020). *Deconstructing information
 literacy discourse: Peeling back the layers in higher education*. In:
 Journal of Librarianship and Information Science \[Online First\],
-[https://doi.org/10.1177/0961000620966027](https://doi.org/10.1177%2F0961000620966027)
+[https://doi.org/10.1177/0961000620966027](https://doi.org/10.1177/0961000620966027)
 
 In dieser Studie wird eine Diskursanalyse der englischsprachigen
 bibliothekarischen Literatur zur Informationskompetenz im
@@ -1053,8 +1053,8 @@ Es wurden knapp 100 neue Bücher beschafft, die keinen
 geschlechtsbezogenen Sticker bekamen. Nach acht Monaten wurden die neuen
 Daten mit bereits vorhanden Ausleihdaten der letzten fünf Jahre
 verglichen. Die Ergebnisse waren eindeutig. Gab es während der
-Jungs/Mädchen-Sticker-Ära nur 1--2% "geschlechtsuntypische" Ausleihen,
-waren es nach der Aufhebung der Geschlechter-Zuweisung 20%. Als
+Jungs/Mädchen-Sticker-Ära nur 1--2&#8239;% "geschlechtsuntypische" Ausleihen,
+waren es nach der Aufhebung der Geschlechter-Zuweisung 20&#8239;%. Als
 Konsequenz wurden in der Bibliothek Uster die geschlechtsspezifischen
 Aufkleber abgeschafft.
 
@@ -1196,7 +1196,7 @@ Vollkommen erschreckende Ergebnisse über sexuelle Belästigungen von
 Bibliothekar\*innen am Arbeitsplatz liefert diese Umfrage an der
 University of California. Befragt wurden 1610 Personen an den
 Bibliotheken der Universität (mit 10 Standorten)- Von den 579
-Antwortenden berichteten 54% davon, sexuelle Belästigung erlebt zu
+Antwortenden berichteten 54&#8239;% davon, sexuelle Belästigung erlebt zu
 haben. Dies verteilte sich auf verschiedene Formen von Belästigung, traf
 aber an allen Standorten zu. Schlimm sind auch die Rückmeldungen, dass
 in vielen Fällen die Institution die Betroffenen nicht unterstützte oder
@@ -2408,7 +2408,7 @@ Im Sommer 2018 brach Elsevier die Verhandlungen über mögliche neue
 Open-Access-Publikationsmodelle im Rahmen des DEAL-Projektes ab und
 weigert sich seitdem, diese wieder aufzunehmen. Mitglieder von
 wissenschaftlichen Einrichtungen umgehen das Problem, aktuell keinen
-Zugang zu den Publikationen des Verlags zu haben,, indem sie auf
+Zugang zu den Publikationen des Verlags zu haben, indem sie auf
 Schattenbibliotheken, wie zum Beispiel Sci-Hub, zurückgreifen. Für
 wissenschaftliche Einrichtungen bieten Schattenbibliotheken eine gewisse
 Kompensation fehlender oder zu teurer Zugänge, wenn es um den Zugang zu
@@ -2529,7 +2529,7 @@ schwieriger sein wird, diese fortzusetzen. (ks)
 
 ---
 
-o. A. (2021). *Gutes Konzept in Krisenzeiten: Stadtbibliothek bekommt
+o.&#8239;A. (2021). *Gutes Konzept in Krisenzeiten: Stadtbibliothek bekommt
 750 Euro*. In: Wolfsburger Allgemeine, 09.02.2021, S. 15.\
 Die Stadtbibliothek Wolfsburg erhielt als eine von zehn Bibliotheken in
 Niedersachsen zusätzliche Fördermittel in Höhe von 750 Euro. Diese
@@ -2540,8 +2540,8 @@ dieser Bewältigung zählten ein frühzeitig eingerichteter Abholservice
 für Medien und ein Ausbau des Bestands an Online-Medien. Dass die
 Nachfrage hoch ist, zeigen die Steigerungszahlen bei den Zugriffen auf
 digitale Angebote: das Angebot von Pressreader verzeichnete eine
-Steigerung von 50%, die NAXOS-Library 30 % und Munzinger immerhin 5 %.
-Den höchsten Zuwachs gab es bei den BROCKHAUS-Daten mit 130 %. Sehr
+Steigerung von 50&#8239;%, die NAXOS-Library 30&#8239;% und Munzinger immerhin 5&#8239;%.
+Den höchsten Zuwachs gab es bei den BROCKHAUS-Daten mit 130&#8239;%. Sehr
 offensichtlich schlägt also der Bedarf nach entsprechenden Informationen
 durch das Home-Schooling durch. Die Fördermittel möchte die Bibliothek
 in Angebote zur Unterstützung von Medienkompetenz von Kindern und
@@ -2567,7 +2567,7 @@ Forschungseinrichtungen dauerhaft für den Zugang und das OA-Publizieren
 zahlen, während auch weiterhin ein Teil der Artikel (in den hybriden
 Zeitschriften) closed access bleibt. Ziel ist also de facto die
 Transformation des Publikationsmarktes hin zu Open Access -- konkret
-will man "100 % Open Access, zu niedrigeren Kosten und mit einem
+will man "100&#8239;% Open Access, zu niedrigeren Kosten und mit einem
 transparenten Preismodell". Wichtig ist wohl vor allem der Hinweis "zu
 niedrigeren Kosten". Die vorhandenen Transformationsverträge werden als
 Werkzeug für den Übergang eingeschätzt (sie haben die
@@ -2575,7 +2575,7 @@ Forschungseinrichtungen zunächst in die Lage versetzt, einen Überblick
 über die Gesamtkosten zu erhalten -- zuvor wurden Open-Access-Gebühren
 weitestgehend dezentral finanziert); nun aber wird es Zeit für den
 nächsten Schritt (denn Teil der Transformationsverträge ist eine
-vertraglich vereinbarte Preissteigerung von bis zu 10 % pro Jahr -- was
+vertraglich vereinbarte Preissteigerung von bis zu 10&#8239;% pro Jahr -- was
 über längere Zeit nicht finanzierbar ist).\
 2024 ist vor allem mit Blick auf Plan S ein wichtiges Datum; nur bis
 dahin gelten Übergangsfristen, so dass Artikel in hybriden Zeitschriften
