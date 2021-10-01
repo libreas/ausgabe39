@@ -1,4 +1,4 @@
-![Roboter aus der Robotervitrine im Eingangsbereich des Deutsches Technikmuseum in Berlin. Mit freundlicher Genehmigung der Stiftung Deutsches Technikmuseum Berlin / C. Kirchner.](img/Robotervitrine.jpg)
+![Roboter aus der Robotervitrine im Eingangsbereich des Deutsches Technikmuseum in Berlin. Mit freundlicher Genehmigung der Stiftung Deutsches Technikmuseum Berlin (Bildrechte: SDTB / C. Kirchner).](img/Robotervitrine.jpg)
 
 Während des Semesterstarts ist an Universitäten bekanntlich viel los.
 Überall herrscht hektische Betriebsamkeit. Studierende suchen ihren
@@ -196,7 +196,7 @@ innerhalb der Bibliothek wie folgt:
 
 > "Ich verstehe mich eher als Assistenzsystem und helfe den Mitarbeiter\*innen der Bibliothek, wo ich kann und bringe ihnen Entlastung. Ich bin ein Lern- und Forschungsroboter; das heißt, die Studenten des Studiengangs Telematik, die mich vorwiegend programmieren, probieren viel an mir aus -- was als Ergebnis den Kunden der Bibliothek zugute kommen soll \[...\]. Ich unterstütze zum Beispiel, indem ich kleine Bibliotheksführungen gebe oder Zuhörern zum Entspannen Witze erzähle, mit -- vor allem jungem -- Nachwuchs Schere-Stein-Papier spiele oder für ein Selfie zur Verfügung stehe. Ab dem kommenden Wintersemester soll ich helfen, das Fehlen von Fachpersonal in den Abend- und Morgenstunden zu kompensieren, damit Studierende rund um die Uhr hier arbeiten können."[^10]
 
-![Screenshot aus dem Video: Auf einen Espresso mit Wilma](img/Wilma.PNG)
+![Screenshot aus dem Video: Auf einen Espresso mit Wilma. Mit freundlicher Genehmigung der Hochschulbibliothek der TH Wildau (Dr. Frank Seeliger).](img/Wilma.PNG)
 
 Im Konzept bezüglich der Einsatzgebiete von Wilma sei immer angelegt
 gewesen, so sagt mir der Bibliotheksdirektor der Hochschulbibliothek der
@@ -335,8 +335,7 @@ energisch darauf hin:
 
 > "Wenn sie sich Technik ins Haus holen, dann brauchen sie auch einen Support für diesen. Und da gibt es zwei Möglichkeiten, entweder sie kaufen sich das Know How als Serviceleistung teuer ein, oder sie haben einen Informatiker im Haus, der sich darum kümmert. Aber es macht nichts einfacher, das ist natürlich immer komplexer, gerade solche Systeme am Laufen zu halten. Das technische Level aufrecht zu erhalten kostet extrem viel Zeit und Personal."[^20]
 
-### Reaktionen der Nutzenden und Mitarbeitenden auf die
-Bibliotheksroboter
+### Reaktionen der Nutzenden und Mitarbeitenden auf die Bibliotheksroboter
 
 Nachdem zuvor die Funktion und die Grenzen beziehungsweise
 Schwierigkeiten von Bibliotheksrobotern näher beleuchtet wurden, bleibt
