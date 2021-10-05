@@ -1385,7 +1385,7 @@ Villeurbanne: Presses de l'enssib, 2020,
 
 Die Öffentlichen Bibliotheken in Grossbritannien sind seit Jahren in
 einer profunden Krise. Einst Vorbild für Bibliothekssysteme anderer
-Länder müssen britische Bibliotheken heute oft konkret um ihr Überleben
+Länder, müssen britische Bibliotheken heute oft konkret um ihr Überleben
 fürchten. (Es liegt nahe, wird in diesem Buch aber nicht gemacht, dies
 mit der aktuellen Krise Grossbritanniens in Verbindung zu setzen.) Das
 Buch möchte die Gründe für diese Krise darlegen. Neben Texten, die neu
@@ -1546,7 +1546,7 @@ erschwert.
 Der Beitrag vermittelt einen Einblick in das dreizehnteilige
 Kategorie-System, mit dem Jens Mätschke rassistische Zuschreibungen für
 "Schwarze" benennt und analysiert. Er erläutert diesen Ansatz anhand des
-Klassikers "Robinson Crusoe" (2002) und eines aktuelleren Kinderbuchs
+Klassikers "Robinson Crusoe" (1719/2002) und eines aktuelleren Kinderbuchs
 mit dem Titel "Vimala gehört zu uns" (2002). Die Vergleiche sind
 nachvollziehbar und begründet. Die Konfrontationen regen zum Nachdenken
 darüber an, wie Geschichten mit rassifizierten Darstellungen in
@@ -1584,7 +1584,7 @@ berücksichtigt.
 
 In den Interviews merken viele Dozent:innen an, dass sie zu wenig Zeit
 für eine Aktualisierung der Kurse haben, dass das Lehrprogramm für
-Einbindung anderer Wissensformen zu unflexibel ist oder das Fach zu
+die Einbindung anderer Wissensformen zu unflexibel ist oder das Fach zu
 technisch sei. Dem stellt Franciéle vergleichsweise leichte Lösungen
 gegenüber. Zum Beispiel listet sie schwarze Bibliotheks- und
 Informationswissenschaftler\*innen auf, die auch die sogenannten
@@ -1621,7 +1621,7 @@ Dekonstruktion der von ihr kritisierten Hegemonien essentiell. Eine
 Zusammenfassung, wie sie der vorliegende Text liefert, bildet daher eine
 notwendige Voraussetzung sowohl für das kritische Hinterfragen dieser
 Hegemonien als auch eine Orientierung zum Thema für Dozent:innen und
-Bibliothekar:innen unverzichtbar, die in diesem Bereich arbeiten. (vt)
+Bibliothekar:innen, die in diesem Bereich arbeiten. (vt)
 
 #### 3.3 Einführungen und Handbücher
 
@@ -1924,7 +1924,7 @@ design in the long 1960s*. London; New York: Routledge, 2018
 
 In weiten Teilen ist dieses Buch Architekturgeschichte, inklusive vieler
 Bilder aus Beispielbauten. Der Autor stellt hier -- anschliessend an
-sein Buch "*Books, buildings and social engineering : early public
+sein Buch "*Books, buildings and social engineering: early public
 libraries in britain from past to present*" (London : Routledge, 2016),
 in welchem er die Bibliotheksbauten in Grossbritannien bis 1939
 untersuchte -- die Gebäude Öffentlicher Bibliotheken vor, welche
@@ -1981,7 +1981,7 @@ die Entwicklung der Frage, was für diese Bibliotheken als "öffentlich"
 galt. Was sie dabei zeigen ist folgendes: (1) Die Entwicklung ist
 jeweils gleichzeitig lokal und imperial -- Basis sind immer die lokale
 Situation und die Interessen der lokalen Kolonialgesellschaft (zum
-Beispiel stets, als besonderer Ort gegenüber dem imperialen Zentrum in
+Beispiel stets, als besonderer Ort gegenüber dem imperialen Zentrum
 London und den anderen Kolonien zu gelten und gleichzeitig ständig
 wieder die gleichen Debatten zu führen, wie sie auch aus der Geschichte
 britischer Bibliothek bekannt sind), (2) die Entwicklung der
@@ -1990,7 +1990,7 @@ Jahrhundert verankert (zum Beispiel geht es konstant darum, die
 Arbeitenden anzusprechen und ihnen einen Aufstieg durch Bildung zu
 ermöglichen, aber gleichzeitig den Zugang zu Bibliotheken einzuschränken
 gegenüber Personen, denen vorgeworfen wird, gar nicht wirklich lesen zu
-wollen oder aber -- wie gebildeten Frauen -- das falsche zu lesen), (3)
+wollen oder aber -- wie gebildeten Frauen -- das Falsche zu lesen), (3)
 die Bibliotheken agieren immer in der kolonialen Situation, also für die
 "europäische" Gesellschaft und die Teile der "nicht-europäischen"
 Gesellschaft, die als "an die Zivilisation herangeführt" betrachtet
@@ -2072,7 +2072,7 @@ der Möglichkeiten die Situation für Afroamerikaner\*innen zu verbessern,
 die dann aber bei der Desegregation um ihre Arbeitsplätze in den
 Bibliotheken fürchteten. Zudem zeigt der Autor mit den drei Case Studies
 auch, dass es immer Unterschiede bei den konkreten lokalen Situationen
-gab, obgleich es sich gleichbleibendum rassistische Strukturen handelte.
+gab, obgleich es sich gleichbleibend um rassistische Strukturen handelte.
 
 Der Autor ist Archivar und hat eine historische Ausbildung genossen. Das
 ist dem Buch auch anzumerken. Zum einen interessiert ihn, die von ihm
@@ -2196,7 +2196,7 @@ Entwicklung in Potsdam -- zuerst die Gründung von Vereinsbibliotheken
 und (kommerziellen) Leihbibliotheken, dann von Vereinen getragene
 Bibliotheken für die Öffentlichkeit, zuletzt die Gründung einer
 Bibliothek und Lesehalle durch die Gemeinde -- sich so vollzog, wie auch
-in vielen anderen deutschen Gemeinden auch. Aber dies muss den
+in vielen anderen deutschen Gemeinden auch. Aber dies muss von den
 Leser\*innen selber geschlossen werden, die Autoren tun dies nicht. (ks)
 
 ---
@@ -2208,7 +2208,7 @@ Museumsmanagement) Bielefeld: transcript Verlag, 2020 \[gedruckt\]
 
 Dieses Buch will untersuchen, wie in der DDR die Vermittlung von Kultur
 organisiert war und mit welcher Wirkung dies passierte. Grundthese ist,
-dass dies grundsätzlich anders organisiert war, als heute, dass darüber
+dass dies grundsätzlich anders organisiert war als heute, dass darüber
 aber wenig bekannt sei und dass es möglich wäre, aus dieser Geschichte
 etwas für die heutige Kulturvermittlung zu lernen. Es ist aber keine
 Untersuchung, sondern eher eine Materialsammlung, welcher der
@@ -2336,7 +2336,7 @@ handschriftlichen Kommentare, als Arbeitsmittel für Bildung und
 Wissenschaft, wie sie im Kloster betrieben wurde. Er interpretiert
 ausgewählte Bücher, indem er sehr tief in die Anmerkungen und
 Nutzungsspuren eingeht und verortet sie im Wissen darüber, wie Bücher in
-Klostern des Spätmittelalters und speziell in Saint-Bertin genutzt
+Klöstern des Spätmittelalters und speziell in Saint-Bertin genutzt
 wurden.
 
 Alle drei Werke gehören in den offensichtlich vorhandenen Trend von
@@ -2387,7 +2387,7 @@ gebundener, selbstgeschriebener Broschüren daherkommt. Dennoch gibt es
 hinter ihr einen Plan. Hirschler rekonstruiert anhand von Nutzungsspuren
 in den Dokumenten und einer historischen Kontextualisierung die
 dahinterstehende intellektuelle Nutzung, beispielsweise die Tradition
-des wörtlichen Vortrags von Textes, die anschliessend in den Dokumenten
+des wörtlichen Vortrags von Texten, die anschliessend in den Dokumenten
 selber vermerkt wurde. Dem eigentlichen inhaltlichen Teil von 170 Seiten
 schliessen sich einige hundert Seiten an Dokumentation des Katalogs
 dieser Sammlung und Digitalisaten an.
@@ -2531,6 +2531,7 @@ schwieriger sein wird, diese fortzusetzen. (ks)
 
 o.&#8239;A. (2021). *Gutes Konzept in Krisenzeiten: Stadtbibliothek bekommt
 750 Euro*. In: Wolfsburger Allgemeine, 09.02.2021, S. 15.\
+
 Die Stadtbibliothek Wolfsburg erhielt als eine von zehn Bibliotheken in
 Niedersachsen zusätzliche Fördermittel in Höhe von 750 Euro. Diese
 werden vom Deutschen Bibliotheksverband zur "Förderung von Bibliotheken
@@ -2838,7 +2839,7 @@ Eine Planung sollte sich an zwei Zielen ausrichten: 1. die
 Wahrscheinlichkeit des Überstehens einer Krise zu steigern, 2. mögliche
 Schäden klein halten, damit eigentliche Funktion eines Betriebs
 schnellstmöglich wiederhergestellt werden kann. Hierfür kann das
-Verfahren der Modellierung von Katastrophenszenarien herangezogen. (kmg)
+Verfahren der Modellierung von Katastrophenszenarien herangezogen werden. (kmg)
 
 ---
 
