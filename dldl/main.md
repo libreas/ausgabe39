@@ -58,7 +58,7 @@ konkrete Organisation der Ersteinführung von Nutzer\*innen in einer
 Spezialbibliothek (oder allgemein einer Bibliothek). Diese lässt sich
 aktiv gestalten und planen. Im Artikel werden die Ergebnisse einer
 Umfrage unter US-amerikanischen Firmenbibliotheken dazu präsentiert, wie
-diese diese Einführungen angehen. Das ist nicht uninteressant -- so
+jene diese Einführungen angehen. Das ist nicht uninteressant -- so
 warten einige explizit ein paar Wochen, damit die neu eingestellten
 Mitarbeiter\*innen sich erst in der jeweiligen Firma zurechtfinden und
 ihre Informationsbedürfnisse erkennen können, andere verweisen darauf,
@@ -291,7 +291,7 @@ der COVID-19 Pandemie lernen konnten und vor allem, was an den Lösungen
 für die Zukunft und für zukünftige Gesundheitskrisen dieser Art bleiben
 wird. Als Basis nimmt sie vor allem ihre eigenen Erfahrungen als
 Bibliothekarin an der Illinois State University. Es sind keine neuen
-oder erstaunlichen Aussagen, zu der sie kommt (mehr Hygiene, mehr
+oder erstaunlichen Aussagen, zu denen sie kommt (mehr Hygiene, mehr
 Online-Aktivitäten, mehr Lösungen für die Lieferung von Medien).
 Interessant ist, dass sie davon ausgeht, dass Bibliotheken (und
 Gesellschaften) längerfristig durch die Pandemie verändert wurden und
@@ -521,7 +521,7 @@ bezüglich Recherche (und anderer Themen) an diese wenden würden. Dies
 sei in kleinen Hochschuleinrichtungen einfacher als in grossen. Dort, wo
 die Person, welche in Einführungsveranstaltungen die Bibliothek und
 deren Angebote vorstellt, auch die Person ist, die dann in der
-BIbliothek zu finden ist, sei die Wahrscheinlichkeit grösser, dass sie
+Bibliothek zu finden ist, sei die Wahrscheinlichkeit grösser, dass sie
 angesprochen wird. Gleichzeitig, so die Autor\*innen weiter, würde sich
 die meiste Forschung zu Informationskompetenz und die Arbeit von
 Bibliotheken, die sich um dieses Thema gruppiert, gerade mit der
@@ -599,7 +599,7 @@ Perspektive Bibliothek 9 (2020) 1,
 Die Autorin gibt einen Überblick über die Entwicklung und Rezeption von
 Plan S. Dabei geht sie auf Reaktionen von Wissenschaftlerinnen und
 Wissenschaftlern, aber auch Fachgesellschaften, Forschungs- und
-Förderorganisationen sowie politischen Akteuren ein. So wrd der Einfluss
+Förderorganisationen sowie politischen Akteuren ein. So wird der Einfluss
 aufgezeichnet, den diese unterschiedlichen Akteure auf die Ausarbeitung
 von Plan S genommen haben und der öffentliche Diskurs um das Vorhaben
 wird nachvollzogen. Der Artikel bietet somit einen guten Einstieg, um
@@ -633,7 +633,7 @@ Pandemie viel verändert hätte, so als würden die Autor\*innen hoffen,
 die Krise hätte im Ergebnis die Veränderungen, die sie sich erwünschen,
 hinterrücks eingeführt. (ks)
 
----
+#### 2.5 Kommunikation von Bibliotheken mit Forschenden / Liaison Librarians
 
 Lange, Jessica / Hanson, Carrie (2020). *"You Need to Make it as Easy
 as Possible for Me": Creating Scholarly Communication Reports for
@@ -641,7 +641,7 @@ Liaison Librarians.* In: Journal of Librarianship and Scholarly
 Communication 8.1:p.eP2329,
 [http://doi.org/10.7710/2162-3309.2329](http://doi.org/10.7710/2162-3309.2329)
 
-"Scholarly Communication (SC) \[verstanden v.a. als
+"Scholarly Communication (SC) \[verstanden vor allem als
 (Open-Access-)Publizieren, V.V.\] is becoming a core function of liaison
 librarians' work", haben die beiden Autorinnen von der kanadischen
 McGill-Universität festgestellt: "The typical trifecta of liaison
@@ -674,7 +674,7 @@ alltägliche Beratungsarbeit hilfreich sein könnten, und recherchiert sie
 bei Gelegenheit selbst. Die methodologischen Notizen im Anhang können
 dabei eventuell nützlich sein. (vv)
 
-#### 2.5 Kommunikation von Bibliotheken mit Forschenden / Liaison Librarians
+---
 
 Safin, Kelly / Kiner, Renee (2020). *Campus Engagement: Faculty
 Recognition and the Library's Role*. In: Journal of Library Outreach &
@@ -782,11 +782,11 @@ neue Seite: Die der Bibliotheken und ihrer Kulturen. Hauptaussage ist,
 dass Bibliotheken bei gleichen Aufgaben durch ihre jeweils spezifischen,
 lokalen Kulturen zu unterschiedlichen Lösungen gelangen.
 
-Untersucht wurden zwei Bibliotheken die am gleichen Projekt arbeiteten
+Untersucht wurden zwei Bibliotheken, die am gleichen Projekt arbeiteten,
 mit Interviews und Feldbesuchen: Ein grosses astronomisches Projekt
 hatte über Jahre Daten gesammelt. Beim Projektabschluss wurden von
 Forschungsgruppen Möglichkeiten gesucht, diese Daten langfristig
-aufzubewahren und weiter zu nutzen. Beiden untersuchte Bibliotheken sind
+aufzubewahren und weiter zu nutzen. Beiden untersuchten Bibliotheken sind
 an Universitäten angesiedelt, welche Forschungsgruppen, die am Projekt
 beteiligt waren, beherbergten. Beide gingen -- obwohl es sich um die
 gleichen Daten handelt -- unterschiedlich vor: Eine gründete eine
@@ -804,7 +804,7 @@ dem Schluss, dass Bibliotheken nicht die einzigen Institutionen sind,
 welche Datenmanagement übernehmen können: Nachdem die Forschungsgruppen
 andere Finanzierungswege gefunden hatten, führten sie das Management
 selbst weiter. Die Lösung, die langfristige Archivierung und Pflege von
-Daten Bibliotheken zu übergeben, ist nicht alternativlos. (ks)
+Daten an Bibliotheken zu übergeben, ist nicht alternativlos. (ks)
 
 ---
 
@@ -917,7 +917,7 @@ eine erstaunliche, aber auch beängstigende Vielfalt an Angeboten in
 verschiedensten Bereichen, die oft als normaler Teil der
 bibliothekarischen Arbeit dargestellt werden. Es geht dabei nicht darum,
 Literatur zu allen möglichen Themen anzubieten, sondern konkrete
-Angebote zu machen, weil diese die Aufgabe von Bibliotheken wäre. Es ist
+Angebote zu machen, weil dies die Aufgabe von Bibliotheken wäre. Es ist
 eine Erinnerung daran, dass die Öffentlichen Bibliothekssysteme
 verschiedener Länder, und damit auch die Vorstellungen davon, was zur
 bibliothekarischen Arbeit gehört, tatsächlich unterschiedlich sind.
@@ -1001,7 +1001,7 @@ public libraries*. In: Social Work Education \[Latest Articles\]
 [https://doi.org/10.1080/02615479.2021.1908987](https://doi.org/10.1080/02615479.2021.1908987)
 \[Paywall\]
 
-Der Artikel richtet sich vor allem an Studierende in Sozialer Arbeit und
+Der Artikel richtet sich vor allem an Studierende in der Sozialen Arbeit und
 den Personen in Hochschulen, welche dafür zuständig sind, für deren
 Praktika zu sorgen. Er wirbt dafür, diese Praktika in Öffentlichen
 Bibliotheken durchzuführen -- ein wenig liest er sich deshalb auch nach
@@ -1022,7 +1022,7 @@ Beginning of Broadcast Radio*. In: Journal of Radio & Audio Media
 \[Paywall\]
 
 Ein recht unterhaltsamer Einblick in Sendungen von, beziehungsweise mit
-Bibliothekarinnen, die in früher "Radiozeit" (1921-1922) in drei Sendern
+Bibliothekarinnen, die in der frühen "Radiozeit" (1921-1922) in drei Sendern
 in Sutter County (California), Toledo und Pittsburgh auftraten und dort
 entweder die Bibliothek und ihre Angebote vorstellten oder für Kinder
 vorlasen. Der Artikel baut auf den wenigen Quellen zu diesen Programmen
@@ -1152,7 +1152,7 @@ durch direkte Beteiligung an Entscheidungen und einer Wertschätzung des
 gesamten Personals. Laut Wilson zeichnet sich letzters durch forcierte
 Partizipation, den Aufbau von Beziehungen zwischen Leitung und Personal,
 regelmässiger (am besten auch geplanter) und ehrlicher Kommunikation,
-der Gleichbehandlung des Personals und an die lokalen und individuellen
+der Gleichbehandlung des Personals sowie an die lokalen und individuellen
 Verhältnisse angepassten Führungspraktiken aus. Zu bemerken ist, dass
 hinter beiden Führungsstilen auch jeweils ein bestimmtes Verständnis
 davon steht, wie Leitungspersonen ihr Personal sehen. Der Artikel ist
@@ -1195,13 +1195,13 @@ College & Research Libraries 82 (2021) 2,
 Vollkommen erschreckende Ergebnisse über sexuelle Belästigungen von
 Bibliothekar\*innen am Arbeitsplatz liefert diese Umfrage an der
 University of California. Befragt wurden 1610 Personen an den
-Bibliotheken der Universität (mit 10 Standorten)- Von den 579
+Bibliotheken der Universität (mit 10 Standorten). Von den 579
 Antwortenden berichteten 54&#8239;% davon, sexuelle Belästigung erlebt zu
 haben. Dies verteilte sich auf verschiedene Formen von Belästigung, traf
 aber an allen Standorten zu. Schlimm sind auch die Rückmeldungen, dass
 in vielen Fällen die Institution die Betroffenen nicht unterstützte oder
 die Betroffenen selbst den Eindruck hatten, sich nicht hilfesuchend an
-Personen wenden zu können. Es gab Lichtblicke, insbesondere ,dass viele
+Personen wenden zu können. Es gab Lichtblicke, insbesondere, dass viele
 -- aber nicht alle -- Leitungen der Bibliotheken das Problem ernst
 nahmen. Allerdings, so die Autorinnen, hat dies bislang nicht dazu
 geführt -- wie auch regelmässige Fortbildungen zum Thema -- dass es
