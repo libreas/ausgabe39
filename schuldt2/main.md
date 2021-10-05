@@ -76,14 +76,14 @@ ETH Zürich werden angesprochen. Was ausserhalb dessen in den
 Bibliotheken der restlichen Sprachräume der Schweiz passierte, scheint
 hingegen die Autor\*innen überhaupt nicht zu interessieren. Sehr
 sichtbar wird dies am Kapitel über die Ausbildung für Genfer
-Bibliothekar\*innen. (Jacquesson & von Roten 2018: 253-278)
+Bibliothekar\*innen. (Jacquesson & von Roten 2018: 253–278)
 Selbstverständlich stehen (angehenden) Bibliothekar\*innen in der
 Schweiz mehrere Möglichkeiten der Aus- und Weiterbildung offen.[^1] In
 diesem Kapitel werden aber nur, dafür ausführlich, die Entwicklungen des
 Curriculums an der Bibliotheksschule, später Fachhochschule in Genf,
 Weiterbildungen an den Universitäten Genf, Lausanne, Fribourg und Bern
 sowie Kurse für Öffentliche Bibliotheken erwähnt. Weiter wird der Bogen
-nicht gespannt -- oder anders gesagt: Über den \"Röstigraben\" wird
+nicht gespannt -- oder anders gesagt: Über den "Röstigraben" wird
 nicht gegangen.[^2]
 
 Das ganze Buch scheint davon zu leben, an welchen Projekten die beiden
@@ -191,23 +191,23 @@ neben einer Geschichte der Computer in Bibliotheken bis zum damaligen
 Zeitpunkt, auch, aus welchen Gründen Bibliotheken Technik auswählen oder
 sich gegen sie entscheiden sollen. Er führt explizit durch eine
 "Systemanalyse" zur Einführung von Hard- und Software hindurch (Jacquesson
-1995: 29-62) und diskutiert neben möglichen Vorteilen auch immer wieder
+1995: 29–62) und diskutiert neben möglichen Vorteilen auch immer wieder
 potentielle Nachteile und Veränderungen von Technologie. Zwar trifft er
 auch Aussagen über wahrscheinliche Entwicklungen (beispielsweise, dass
 es tendenziell immer weniger Bibliotheksverbünde gegeben wird, in diesen
 Bibliotheken aber ihre Autonomie grösstenteils erhalten werden können,
-Jacquession 1995: 149-210), das aber mit Vorsicht.
+Jacquession 1995: 149–210), das aber mit Vorsicht.
 
 In dem mit Alexis Rivier gemeinsam publizierten "Bibliothèques et
 documents numériques" (Jacquesson & Rivier 2005) wird zuerst ausführlich
 in Fragen der Digitalisierung eingeführt. Zum Beispiel wird geschildert,
 wie Texte und Bilder auf technischer Ebene elektronisch dargestellt
-werden. (Jacquesson & Rivier 2005: 71-94) Ebenso werden Technologien wie
+werden. (Jacquesson & Rivier 2005: 71–94) Ebenso werden Technologien wie
 Buchscanner nicht nur mit ihren Funktionen, sondern auch den dafür
 notwendigen technischen Grundlagen vorgestellt. (Jacquesson & Rivier
-2005: 127-167) Am Ende dieses Buches wird festgehalten, dass die
+2005: 127–167) Am Ende dieses Buches wird festgehalten, dass die
 Entwicklung von Technik in Bibliotheken offen ist. (Jacquesson & Rivier
-2005: 509-544) In diesen beiden Werken werden zwar Technologien und ihre
+2005: 509–544) In diesen beiden Werken werden zwar Technologien und ihre
 Entwicklung geschildert, aber den Bibliotheken auch eine grosse Agency
 zugestanden. Sie werden ermahnt, sich aktiv mit Möglichkeiten und
 Problemen auseinanderzusetzen. Es wird zwar nicht die Frage gestellt,
@@ -222,23 +222,23 @@ Einfluss auf die Entwicklung von Bibliotheken und der Nutzung von Medien
 haben wird. Es ist ein Diskussionsbeitrag zu einem damals stark
 diskutierten Thema. In ihm wird betont, dass Google mit diesem Projekt
 Digitale Bibliotheken nicht erfunden hat, aber eine gewisse Form von
-"Industrialisierung" eingeführt hätte. (Jacquesson 2010: 193-214) In
+"Industrialisierung" eingeführt hätte. (Jacquesson 2010: 193–214) In
 Zukunft wäre es nicht mehr möglich, trotz aller Kritik an dem Projekt
 selber, über digitale Bibliotheken zu reden, ohne Google Books zu
 erwähnen. (Jacquesson 2010: 165) Neun Jahre später, in der Geschichte
 der Informatisation der Bibliotheken in Genf, wird es nicht
 angesprochen. Auch in der am Ende eingefügten Tabelle (Jacquesson & von
-Roten 2019: 379-389) mit den wichtigsten Entwicklungen im Bezug auf das
+Roten 2019: 379–389) mit den wichtigsten Entwicklungen im Bezug auf das
 Thema in Genf, der Schweiz und weltweit, taucht es nicht auf.[^6]
 
 Vorhersagen treffen also auch nicht ein, Projekte scheitern,
 Technologien verschwinden wieder. Alain Jaquesson hat dies nicht nur
 beim Thema Google Books selbst erlebt, er schildert auch in seinen
 anderen Büchern, wie Technologien wieder abgelöst werden (beispielsweise
-Mainframe-Computer, Jacquesson 1995: 245-265) oder unerwartete
+Mainframe-Computer, Jacquesson 1995: 245–265) oder unerwartete
 Gleichzeitigkeiten auftreten (zum Beispiel, dass sich Schreibmaschinen
 in Bibliotheken durchsetzten, als die ersten Computer aufkamen,
-Jacquesson & Rivier 2005: 47-69). Aus seinen eigenen Publikationen geht
+Jacquesson & Rivier 2005: 47–69). Aus seinen eigenen Publikationen geht
 hervor, dass es keine einfach fortschreitende Geschichte gibt. Und
 dennoch versucht er in seinem aktuellen Buch, eine solche zu schreiben.
 
@@ -289,7 +289,7 @@ Jacquesson, Alain ; von Roten, Gabrielle (2019). *Histoire d\'une
 
 [^1]: Der Autor dieses Textes ist lehrend an der Fachhochschule in Chur
   tätig und kann deshalb aus Erfahrung sagen, dass immer auch
-  Studierenden aus der Romandie über die Sprachgrenze hinausgehen und
+  Studierende aus der Romandie über die Sprachgrenze hinausgehen und
   zum Beispiel in Chur studieren.
 
 [^2]: Auch keine Aus- und Weiterbildungsgänge in Frankreich, obwohl
