@@ -46,10 +46,10 @@ persönliche. Fragen, wie oft die angeklagte Person schon mit der Polizei
 zu tun hatte oder in welchem Alter das erste Mal Kontakt mit der Polizei
 bestand, können schon eine Diskriminierung auslösen, bedenkt man dabei,
 dass BIPoC (Black, Indigenous and People of Color) sehr viel häufiger
-von der Polizei angehalten und kontrolliert werden als weiße Personen.
+von der Polizei angehalten und kontrolliert werden, als weiße Personen.
 Des Weiteren enthält der Fragebogen auch Fragen zum persönlichen Leben,
 zum Beispiel wie man aufgewachsen ist, wie die Familienkonstellation war
-und Fragen zu Freunden. Fragen, die bei einer Straftat keine Rolle
+und Fragen zu Freund\_innen. Fragen, die bei einer Straftat keine Rolle
 spielen sollten, sich aber negativ auf die Bewertung auswirken können.
 Mehrere Studien haben bewiesen, dass dieses System BIPoC benachteiligt
 und sie höhere Strafen bekommen als weiße Menschen mit vergleichbaren
@@ -223,8 +223,8 @@ nachgenutzt werden (vgl. ebd. S. 171 f).
 
 7\. Prinzip -- Make labor visible *(Die Arbeit sichtbar machen)*
 
-Im siebten und somit letzten Prinzip des Data Feminism, erinnern die
-Autorinnen daran, dass fertiggestellte Arbeit, die Arbeit vieler ist.
+Im siebten und somit letzten Prinzip des Data Feminism erinnern die
+Autorinnen daran, dass fertiggestellte Arbeit die Arbeit vieler ist.
 Sie regen an, sich die Fragen zu stellen: Durch wie viele Hände geht ein
 Produkt/eine Untersuchung bis es/sie fertig ist? Die Arbeit von welchen
 Menschen wird womöglich vergessen/nicht gezeigt? Die Arbeit Anderer
@@ -235,7 +235,7 @@ Fokus zu rücken und ihren Anteil an der Arbeit zu würdigen (vgl. ebd. S.
 Zusammenfassend arbeiten die sieben Prinzipien des Data Feminism von
 Catherine D'Ignazio und Lauren F. Klein einen breiten Rahmen aus, wie
 Forschung gerechter werden kann. Das Buch ist Open Access
-erhältlich[^3].
+erhältlich.[^3]
 
 Was hat das nun alles mit der Bibliotheks- und Informationswissenschaft
 zu tun?
@@ -252,13 +252,13 @@ auch als Endprodukt für Nutzer\_innen. Seit jeher sind Bibliotheken
 Meisterinnen der Katalogisierung und der Klassifikationen. Diesen
 Systemen liegen Wertvorstellungen zugrunde, und zwar nicht irgendwelche,
 sondern die Werte, die die Erschaffenden dieser Systeme hatten. Wie
-verschiedene Klassifikationssysteme zeigen (z. B. die
+verschiedene Klassifikationssysteme zeigen (zum Beispiel die
 Dewey-Dezimalklassifikation), repräsentieren sie eine gewisse
 Weltanschauung und verweisen auf den Zeitgeist, in welchem diese Systeme
 erstellt wurden. Erneuerungen und Anpassungen an die sich verändernden
 Werte werden zwar vorgenommen, meistens aber sehr verzögert und nicht
 umfassend. Zum Beispiel wurde erst in der 22. Fassung der
-Dewey-Dezimalklassifikation von 2006 der Begriff "rassisch" geändert,
+Dewey-Dezimalklassifikation von 2006 der Begriff "rassisch" geändert
 sowie die Ausschließung der Notationen für Rassen vorgenommen (vgl.
 Chan, Mitchel 2006, S. 186).
 
