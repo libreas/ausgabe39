@@ -229,7 +229,7 @@ Google und damit auch die Digitalisierung mit Google Books. Die Gründe
 auf der Museumsseite für eine derartige Kooperation sind leicht
 ersichtlich, denn eine Digitalisierung von 50.000 gemeinfreien Bänden
 war und ist bei der vorhandenen Personaldecke nicht zu stemmen. Im
-Vergleich zur Boutique-Digitalisierung[^11], wie sie oben beschrieben
+Vergleich zur Boutique-Digitalisierung,[^11] wie sie oben beschrieben
 wurde, war die Public-Private-Partnership mit dem amerikanischen
 Digitalgiganten von ganz anderen Überlegungen geprägt und hatte für ein
 kleines Haus ganz andere Herausforderungen zu bieten.
@@ -256,7 +256,7 @@ werden die Werke auch im Deutschen Museum Digital verfügbar sein.](img/Abb6.jpg
 Sicherlich können Digitalisate, die bei Google Books angezeigt werden,
 in vielerlei Hinsicht nicht mit den Produkten der Hausdigitalisierung
 mithalten. Nicht ausgeklappte Falttafeln, zerschnittene Titelblätter,
-mitgescannte Finger, das sind Phänomene, für die sich erst im Vollzug
+mitgescannte Finger -- das sind Phänomene, für die sich erst im Vollzug
 eine gewisse Sensibilität entwickelt hat und für welche Lösungen
 gefunden werden müssen. Ebenfalls irrig ist die Annahme, dass
 Massendigitalisierung die Kunst der (digitalen) Editorik übernehmen
