@@ -5,7 +5,7 @@ Galek (kmg), Fatima Jonitz (fj), Sara Juen (sj), Sophie Kobialka (sk),
 Amber Kok (ak), Monika Kolano (mk), Michaela Voigt (mv), Georg Schelle
 (gs), Vivian Schlosser (vs), Valentina de Toledo (vt), Viola Voß (vv)
 
-### 1. Zur Kolumne
+### 1 Zur Kolumne
 
 Ziel dieser Kolumne ist es, eine Übersicht über die in der letzten Zeit
 publizierte bibliothekarische, informations- und
@@ -42,7 +42,7 @@ Twitter mit
 [#icanhazpdf](https://twitter.com/hashtag/icanhazpdf?src=hash) um
 Hilfe bei der legalen Dokumentenbeschaffung zu bitten.
 
-### 2. Artikel und Zeitschriftenausgaben
+### 2 Artikel und Zeitschriftenausgaben
 
 #### 2.1 Vermischte Themen
 
@@ -786,7 +786,7 @@ Untersucht wurden zwei Bibliotheken, die am gleichen Projekt arbeiteten,
 mit Interviews und Feldbesuchen: Ein grosses astronomisches Projekt
 hatte über Jahre Daten gesammelt. Beim Projektabschluss wurden von
 Forschungsgruppen Möglichkeiten gesucht, diese Daten langfristig
-aufzubewahren und weiter zu nutzen. Beiden untersuchten Bibliotheken sind
+aufzubewahren und weiter zu nutzen. Beide untersuchten Bibliotheken sind
 an Universitäten angesiedelt, welche Forschungsgruppen, die am Projekt
 beteiligt waren, beherbergten. Beide gingen -- obwohl es sich um die
 gleichen Daten handelt -- unterschiedlich vor: Eine gründete eine
@@ -1291,7 +1291,7 @@ Roboter mit den Namen Nao im Einsatz. Dieser hilft dabei, den Ablageort
 bestimmter Bücher zu identifizieren und beantwortet Fragen sowohl in
 englischer als auch deutscher Sprache. (kmg)
 
-### 3. Monographien und Buchkapitel
+### 3 Monographien und Buchkapitel
 
 #### 3.1 Vermischte Themen
 
@@ -2397,7 +2397,7 @@ Buch- und Bibliothekskultur zur damaligen (oder heutigen) in Europa ist.
 Wie immer ist daraus auch zu lernen, wie spezifisch "unsere" Buch- und
 Bibliothekskultur zu unserer Zeit und unserem Ort in der Welt ist. (ks)
 
-### 4. Social Media
+### 4 Social Media
 
 Dobusch, Leonhard (2020): *Kein Open-Access-Deal, dafür mit Spyware
 gegen Schattenbibliotheken?* In: netzpolitik.org.
@@ -2472,11 +2472,11 @@ Morgenstunden das Fehlen von Fachpersonal kompensieren, so dass
 Studierende und Mitarbeitende der Hochschule die Bibliothek an sieben
 Tagen 24 Stunden nutzen können. (dg)
 
-### 5. Konferenzen, Konferenzberichte
+### 5 Konferenzen, Konferenzberichte
 
 \[diesmal keine Beiträge\]
 
-### 6. Populäre Medien (Zeitungen, Radio, TV etc.)
+### 6 Populäre Medien (Zeitungen, Radio, TV etc.)
 
 Copper, Quintin (2021): *Eine Wiederaneignung* -- *Die Soziologin Nina
 Degele bekennt sich offensiv zu Politischer Korrektheit.* In: Neues
@@ -2717,7 +2717,7 @@ ist auch eine von Unterdrückern und Herrschenden. Das Übernehmen von
 Verantwortung und eine Distanzierung von einer primär eurozentrischen
 Sichtweise wäre ein Anfang. (fj)
 
-### 7. Abschlussarbeiten
+### 7 Abschlussarbeiten
 
 Haupka, Nick (2021). Analyse der Entwicklung des Open
 Access-Discovery-Services Unpaywall seit 2018.
@@ -2747,7 +2747,7 @@ Abschlussarbeit vorausgegangen ist, werden auch in der Zeitschrift
 Bibliothek: Forschung und Praxis präsentiert (aktuell als Preprint
 verfügbar). (mv)
 
-### 8. Weitere Medien
+### 8 Weitere Medien
 
 Colovini, Leo (studiogiochi); Streese, Folko; Kreativbunker (2020). *Die
 verlassene Bibliothek. Ein Escape-Spiel.* Kempen: moses. Verlag GmbH
