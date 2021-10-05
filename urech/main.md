@@ -141,7 +141,7 @@ gewissen Aufgaben unterstützen.
 Um nützliche und einfach bedien- respektive nutzbare Produkte und
 Dienstleistungen mit einer guten User Experience zu entwickeln, hat sich
 der Human Centered Design-Ansatz etabliert, der ebenfalls in der
-DIN-Norm (DIN EN ISO 9241-210: 2010) beschrieben wird. Bei diesem Ansatz
+DIN-Norm DIN EN ISO 9241-210: 2010 beschrieben wird. Bei diesem Ansatz
 wird die menschliche Perspektive der aktuellen und künftigen Nutzenden
 und Stakeholder in allen Entwicklungsschritten einbezogen -- von der
 Analyse der Nutzenden, deren Aufgaben und dem Nutzungskontext über die
