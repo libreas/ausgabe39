@@ -149,7 +149,7 @@ Katalogs und ermöglichte zudem eine Anreicherung des Katalogisats um
 Schlagwörter und Strukturdaten -- Arbeitsschritte, bei denen andere
 Workflowentwicklungen noch keine befriedigenden Lösungen anboten.
 
-[Auch digital sehenswert: Die Buchschätze des
+![Auch digital sehenswert: Die Buchschätze des
 Astronomie-Rara-Projekts mit der ETH Zürich](img/Abb4.JPG)
 
 ### VD18 2014--2016
