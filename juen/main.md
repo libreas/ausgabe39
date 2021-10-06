@@ -313,4 +313,4 @@ können.* München, 2019.
 [^2]: Die kursiv geschriebenen deutschen Überschriften sind eigene
     Übersetzungen.
 
-[^3]: <data-feminism.mitpress.mit.edu/>
+[^3]: <https://data-feminism.mitpress.mit.edu/>
