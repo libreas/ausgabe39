@@ -1,4 +1,4 @@
-![Roboter aus der Robotervitrine im Eingangsbereich des Deutsches Technikmuseum in Berlin. Mit freundlicher Genehmigung der Stiftung Deutsches Technikmuseum Berlin (Bildrechte: SDTB / C. Kirchner).](img/Robotervitrine.jpg)
+![Roboter aus der Robotervitrine im Eingangsbereich des Deutsches Technikmuseum in Berlin. \[Mit freundlicher Genehmigung der Stiftung Deutsches Technikmuseum Berlin (Bildrechte: SDTB / C. Kirchner).\]](img/Robotervitrine.jpg)
 
 Während des Semesterstarts ist an Universitäten bekanntlich viel los.
 Überall herrscht hektische Betriebsamkeit. Studierende suchen ihren
@@ -64,7 +64,7 @@ Einrichtungen.
 
 ### Funktion von Robotern in Öffentlichen Bibliotheken
 
-![Humanoider Roboter ADA in der Stadtbücherei Frankfurt am Main](img/ADA.PNG)
+![ADA in der Stadtbücherei Frankfurt am Main \[© Stadt Frankfurt am Main, Foto: Benjamin Esche, mit freundlicher Genehmigung der Stadtbücherei Frankfurt am Main\]](img/ADA.PNG)
 
 Die Stadtbücherei Frankfurt am Main und die Stadtbibliothek Köln setzen
 beide einen humanoiden Roboter namens ADA beziehungsweise NAO als Lern-
@@ -197,7 +197,7 @@ innerhalb der Bibliothek wie folgt:
 
 > "Ich verstehe mich eher als Assistenzsystem und helfe den Mitarbeiter\*innen der Bibliothek, wo ich kann und bringe ihnen Entlastung. Ich bin ein Lern- und Forschungsroboter; das heißt, die Studenten des Studiengangs Telematik, die mich vorwiegend programmieren, probieren viel an mir aus -- was als Ergebnis den Kunden der Bibliothek zugute kommen soll \[...\]. Ich unterstütze zum Beispiel, indem ich kleine Bibliotheksführungen gebe oder Zuhörern zum Entspannen Witze erzähle, mit -- vor allem jungem -- Nachwuchs Schere-Stein-Papier spiele oder für ein Selfie zur Verfügung stehe. Ab dem kommenden Wintersemester soll ich helfen, das Fehlen von Fachpersonal in den Abend- und Morgenstunden zu kompensieren, damit Studierende rund um die Uhr hier arbeiten können."[^10]
 
-![Screenshot aus dem Video: Auf einen Espresso mit Wilma. Mit freundlicher Genehmigung der Hochschulbibliothek der TH Wildau (Dr. Frank Seeliger).](img/Wilma.PNG)
+![Screenshot aus dem Video: Auf einen Espresso mit Wilma. \[Mit freundlicher Genehmigung der Hochschulbibliothek der TH Wildau (Dr. Frank Seeliger).\]](img/Wilma.PNG)
 
 Im Konzept bezüglich der Einsatzgebiete von Wilma sei immer angelegt
 gewesen, so sagt mir der Bibliotheksdirektor der Hochschulbibliothek der
@@ -441,7 +441,7 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^2]: Stadtbücherei Frankfurt am Main: Hello World - ADA, Dash \& Co. stellen sich vor <https://www.youtube.com/watch?v=NMUsmLztOCo> (aufgerufen am 7.4.2021).
 
-[^3]: Ebenda.
+[^3]: Stadtbücherei Frankfurt am Main: Hello World - ADA, Dash \& Co. stellen sich vor <https://www.youtube.com/watch?v=NMUsmLztOCo> (aufgerufen am 7.4.2021).
 
 [^4]: Schriftliches Interview mit Frauke Buhlmann (Stadtbibliothek Köln), geführt am 21. Dezember 2020.
 
@@ -461,7 +461,7 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^12]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
-[^13]: Ebenda.
+[^13]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
 [^14]: Chakarova, Juja: Ich, der Roboter, helfe dir, dem Bibliothekar: die Bibliothek des MPI Luxemburg als Wegbereiter In: Forum Bibliothek und Information 02-03/2018, Seite 104.
 
@@ -471,7 +471,7 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^17]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
-[^18]: Ebenda.
+[^18]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
 [^19]: Schriftliches Interview mit Elfriede Ludwig (Leiterin des Bereichs "Digitale Dienste" in der Stadtbücherei Frankfurt am Main), geführt am 21. Januar 2021.
 
@@ -485,4 +485,4 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^24]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
-[^25]: Ebenda.
+[^25]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
