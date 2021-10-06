@@ -201,7 +201,7 @@ institutionelle gehostete Lösung wünschen, die einerseits Open-Source
 ist, aber andererseits diese Funktionalitäten mitbringt. Leider gibt es
 keine Open-Source-Lösung, die das out-of-the-box mitbringt.
 
-B. Mattmann: Wir Admins haben mit "Element" vor etwa zwei Monaten
+B. Mattmann: Wir Admins haben mit "Element"[^3] vor etwa zwei Monaten
 einen Testlauf gemacht, aber gemerkt, dass damit viele Funktionalitäten
 einfach wegfallen würden. Bezüglich des Trends ist es eine Mischung aus
 der Pandemie und dass sich viele Menschen virtuelle Ersatzwelten gesucht
@@ -447,3 +447,5 @@ haben und wünschen Ihnen weiterhin viel Freude und Erfolg.**
 [^2]: Ursprünglich Hallenser Digital-Humanities-Stammtisch,
     Discord-Server eröffnet im März 2020. Darauffolgend überregionale
     Ausbreitung in der DH-Community.
+
+[^3]: <https://element.io/>
