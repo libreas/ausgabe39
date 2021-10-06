@@ -149,8 +149,8 @@ Katalogs und ermöglichte zudem eine Anreicherung des Katalogisats um
 Schlagwörter und Strukturdaten -- Arbeitsschritte, bei denen andere
 Workflowentwicklungen noch keine befriedigenden Lösungen anboten.
 
-[Auch digital sehenswert: Die Buchschätze des
-Astronomie-Rara-Projekts mit der ETH Zürich](img/Abb4.jpg)
+![Auch digital sehenswert: Die Buchschätze des
+Astronomie-Rara-Projekts mit der ETH Zürich](img/Abb4.JPG)
 
 ### VD18 2014--2016
 
@@ -251,7 +251,7 @@ Magazin.
 
 ![Sicherlich hohe Sichtbarkeit garantiert die Einspielung der
 digitalen Bestände des Google Projekts bei Google Books. Zusätzlich
-werden die Werke auch im Deutschen Museum Digital verfügbar sein.](img/Abb6.jpg)
+werden die Werke auch im Deutschen Museum Digital verfügbar sein.](img/Abb6.JPG)
 
 Sicherlich können Digitalisate, die bei Google Books angezeigt werden,
 in vielerlei Hinsicht nicht mit den Produkten der Hausdigitalisierung
@@ -308,7 +308,7 @@ FID eine Vielzahl an Ressourcen wie die Adressen von passenden Archiven,
 Museen und Fachgesellschaften, die geprüft und aktuell gehalten werden.
 
 ![Neben Digitalisaten bietet die Bibliothek weitere
-Dienstleistungen im Fachinformationsdienst Geschichte an.](img/Abb7.jpg)
+Dienstleistungen im Fachinformationsdienst Geschichte an.](img/Abb7.JPG)
 
 ### Fazit und Ausblick
 

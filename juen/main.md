@@ -285,13 +285,13 @@ Chan, Lois Mai; Mitchell, Joan S.: *Dewey Dezimalklassifikation --
 Theorie und Praxis. Lehrbuch zur DDC 22*. München, 2006.
 
 Country Meters (abgerufen am 05.06.21),
-https://countrymeters.info/de/World.
+<https://countrymeters.info/de/World>.
 
 Criado-Perez, Caroline: *Unsichtbare Frauen -- Wie eine von Daten
 beherrschte Welt die Hälfte der Bevölkerung ignoriert*. München, 2020.
 
 D'Ignazio, Catherine; Klein, Lauren F.: *Data Feminism*. Massachusetts,
-2020, https://data-feminism.mitpress.mit.edu/.
+2020, <https://data-feminism.mitpress.mit.edu/>.
 
 Kantayya, Shalini: *Coded Bias*. United States: 7th Empire Media, 2020.
 
@@ -313,4 +313,4 @@ können.* München, 2019.
 [^2]: Die kursiv geschriebenen deutschen Überschriften sind eigene
     Übersetzungen.
 
-[^3]: data-feminism.mitpress.mit.edu/
+[^3]: <https://data-feminism.mitpress.mit.edu/>
