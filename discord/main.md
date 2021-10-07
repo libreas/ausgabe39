@@ -42,7 +42,7 @@ Discord-Channels sammelten und warteten, bis alles wieder funktionierte.
 H. Wiesenmüller: Wir haben auch Audiochannels, zum Beispiel einen, der
 "Großraumbüro" heißt und so intendiert ist, dass man eintreten und
 arbeiten kann und sich dann vielleicht auch zwischendurch mit anderen
-unterhält -- das wird aber nicht so häufig genutzt. Darüber hinaus gibt
+unterhält – das wird aber nicht so häufig genutzt. Darüber hinaus gibt
 es den Direktchat (auch als Audio- oder Video-Chat). Also mag es viele
 Begegnungen geben, die wir nicht mitbekommen, weil sie nicht im
 öffentlichen Raum stattfinden.
@@ -156,7 +156,7 @@ geschützten Raum chatten zu können. Es gab öfter Konferenzsysteme, die
 das ermöglichen wollten, beispielsweise Konferenzapps, aber so richtig
 eingeschlagen sind die eigentlich nie. Und da könnte so eine
 Parallelität von realer und virtueller Begegnung schon ganz interessant
-sein -- ein zusätzlicher Kanal, eine zusätzliche Dimension von
+sein – ein zusätzlicher Kanal, eine zusätzliche Dimension von
 Kommunikation und Begegnung.
 
 D. Brenn: Ein Vorteil gegenüber solchen Konferenzapps ist auch, dass man
