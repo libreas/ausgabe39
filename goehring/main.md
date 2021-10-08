@@ -233,7 +233,7 @@ Navigation. Des Weiteren musste Wilma immer wieder zurück zur
 Ladestation fahren um ihren Akku aufzuladen. Seeliger erklärt mir zum
 Einsatz von Wilma:
 
-> "Man braucht Geduld und man muss spielen wollen, sonst verliert man ganz schnell das Interesse an Wilma, da sie sich doch sehr entschleunigt, unflüssig und stockend durch den realen Raum bewegt. Bis Wilma zu einem Punkt in der Bibliothek gefunden hat, dauert es ewig; das warten sie als Nutzender auch nicht, sie sind andere Geschwindigkeiten gewohnt."[^12]
+> "Man braucht Geduld und man muss spielen wollen, sonst verliert man ganz schnell das Interesse an Wilma, da sie sich doch sehr entschleunigt, unflüssig und stockend durch den realen Raum bewegt. Bis Wilma zu einem Punkt in der Bibliothek gefunden hat, dauert es ewig; da warten sie als Nutzender auch nicht, sie sind andere Geschwindigkeiten gewohnt."[^12]
 
 Die Navigation durch den Raum scheint allerdings nicht nur Wilma schwer
 zu fallen. Wirft man einen Blick auf die Videos von Bibliotheksrobotern,
@@ -410,21 +410,21 @@ Ceynow, Klaus: In Frankfurt lesen jetzt zuerst Maschinen:
 <https://www.faz.net/aktuell/feuilleton/buecher/maschinen-lesen-buecher-deutsche-nationalbibliothek-setzt-auf-technik-15128954.html?printPagedArticle=true#pageIndex_2> (aufgerufen am 16.4.2021).
 
 Chakarova, Juja: Ich, der Roboter, helfe dir, dem Bibliothekar : die
-Bibliothek des MPI Luxemburg als Wegbereiter In: Forum Bibliothek und
+Bibliothek des MPI Luxemburg als Wegbereiter. In: Forum Bibliothek und
 Information 02-03/2018, Seite 100-101.
 
 Herwig, Anja: Schriftliches Interview mit Anja Herwig (Stellv. Leiterin
 der Zweigbibliothek Naturwissenschaften der Humboldt-Universität zu
 Berlin), geführt am 13. Januar 2021.
 
-Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek In:
+Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek. In:
 Forum Bibliothek und Information 11/2019, Seite 621 und 622.
 
 Ludwig, Elfriede: Schriftliches Interview mit Elfriede Ludwig (Leiterin
 des Bereichs "Digitale Dienste" in der Stadtbücherei Frankfurt am Main),
 geführt am 21. Januar 2021.
 
-Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel In: Forum
+Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel. In: Forum
 Bibliothek und Information 02-03/2018, Seite 114 und 115.
 
 Seeliger, Frank: Telefonisches Interview mit Dr. Frank Seeliger (Leiter
@@ -447,9 +447,9 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^5]: Appell der Initiative "Digital für alle": Digitale Teilhabe jetzt umfassend ermöglichen! <https://digitaltag.eu/appell> (aufgerufen am 7.4.2021).
 
-[^6]: Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek In: Forum Bibliothek und Information 11/2019, Seite S. 621 und 622.
+[^6]: Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek. In: Forum Bibliothek und Information 11/2019, Seite S. 621 und 622.
 
-[^7]: Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel In: Forum Bibliothek und Information 02-03/2018, Seite 114*.*
+[^7]: Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel. In: Forum Bibliothek und Information 02-03/2018, Seite 114*.*
 
 [^8]: Schriftliches Interview mit Anja Herwig (stellvertretende Leiterin der Zweigbibliothek Naturwissenschaften der Humboldt-Universität zu Berlin), geführt am 13. Januar 2021.
 
@@ -463,7 +463,7 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^13]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
-[^14]: Chakarova, Juja: Ich, der Roboter, helfe dir, dem Bibliothekar: die Bibliothek des MPI Luxemburg als Wegbereiter In: Forum Bibliothek und Information 02-03/2018, Seite 104.
+[^14]: Chakarova, Juja: Ich, der Roboter, helfe dir, dem Bibliothekar : die Bibliothek des MPI Luxemburg als Wegbereiter. In: Forum Bibliothek und Information 02-03/2018, Seite 104.
 
 [^15]: Ceynow, Klaus: In Frankfurt lesen jetzt zuerst Maschinen: <https://www.faz.net/aktuell/feuilleton/buecher/maschinen-lesen-buecher-deutsche-nationalbibliothek-setzt-auf-technik-15128954.html?printPagedArticle=true#pageIndex_2> (aufgerufen am 16.4.2021).
 
