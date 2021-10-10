@@ -201,7 +201,7 @@ einzubeziehen. Zum einen können die Bibliotheksbenutzenden Bedürfnisse
 haben, die den Mitarbeitenden nicht bewusst sind, und zum anderen können
 nur die Nutzenden für sich selbst beurteilen, ob der Roboter einfach
 benutzbar oder ob die Interaktion verständlich und nützlich ist. So
-mag beispielsweise der Begriff „Katalog“ für die
+mag beispielsweise der Begriff "Katalog" für die
 Bibliotheksmitarbeitenden völlig klar sein, Benutzende könnten den
 Begriff anders oder nicht verstehen. Deshalb wurde in einem zweiten
 Schritt eine Untersuchung mit Bibliotheksbenutzenden mit der Frage
@@ -281,11 +281,11 @@ sprechen kann.
 
 Betreffend der User Experience fiel die Bewertung des Roboters besser
 aus. Seine Verkörperung wurde als positiv angesehen und der Roboter
-wurde als „süss“ beschrieben. Durch seine Gestik wirkte er lebendiger.
+wurde als "süss" beschrieben. Durch seine Gestik wirkte er lebendiger.
 Als intelligent wurde er aber nicht wirklich wahrgenommen -- besonders
 aufgrund der Fragen, die zwingend richtig formuliert gestellt werden
 müssen. Eine eigene Persönlichkeit wurde, wenn überhaupt, nur
-ansatzweise wahrgenommen, und zwar ausgelöst durch das „Blinzeln“ des
+ansatzweise wahrgenommen, und zwar ausgelöst durch das "Blinzeln" des
 Roboters (LED-Blinken in den Augen) oder durch das Fixieren des
 Blickkontaktes und Nachblicken durch den Roboter. Obwohl ein weiterer
 Einsatz durch die befragten Personen in Betracht gezogen wird,
@@ -408,7 +408,7 @@ laufend weiterentwickelt und soll den Bibliotheksnutzenden und
 -mitarbeitenden auch künftig Nutzen und nicht zuletzt auch Spass
 bereiten und die Neugier wecken.
 
-Die Autorin und die Autoren dieses Artikels bedanken sich herzlich bei der
+Die Autorin und Autoren dieses Artikels bedanken sich herzlich bei der
 strategischen Initiative Robo-Lab unter der Leitung von Prof. Dr.
 Hartmut Schulze, dem Vizepräsidium Hochschulentwicklung unter der
 Leitung von Prof. Dr. Daniel Halter sowie bei Isabel Dahinden, Leiterin

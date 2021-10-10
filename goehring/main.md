@@ -134,7 +134,7 @@ Hoffnung, so die Lücke der digitalen Spaltung der Gesellschaft zu
 verkleinern. In dieser Funktion wollen Bibliotheken eine wichtigen
 Beitrag bei der Partizipation und Teilhabe breiter Bevölkerungsschichten
 am digitalen Wandel des gesamten gesellschaftlichen und öffentlichen
-Lebens. Der Roboter soll zum einen praktischen Wert haben, zum anderen
+Lebens leisten. Der Roboter soll zum einen praktischen Wert haben, zum anderen
 aber auch erfreuen, ganz im Sinne des aufklärerischen Grundsatzes
 "Prodesse et delectare". Bibliotheken sind in dieser Funktion
 Erkundungs- und Experimentierort, an dem man Wissen vermittelt, das
@@ -277,7 +277,7 @@ dass:
 ### Künstliche Intelligenz in Bibliotheken
 
 Roboter, zumindest nach heutigem Stand, sind weit davon entfernt in
-irgendeine Konkurrenz zu einem/einer Bibliothekar\*in zu treten. Die
+irgendeine Konkurrenz zu Bibliothekar\*innen zu treten. Die
 Frage nach der Verdrängung der bibliothekarischen Belegschaft durch den
 Roboter stellt sich aktuell nicht. Dagegen haben andere Technologien,
 wie die Einführung von RFID oder die Verbund- beziehungsweise
@@ -288,7 +288,7 @@ bibliothekarischen Kernaufgabengebieten sind eher Entwicklungen zu
 sehen, welche sich im digitalen Raum manifestieren. Schlagwort in diesem
 Zusammenhang ist der Einsatz von Künstlicher Intelligenz (KI) in
 Bibliotheken. Diese im virtuellen Raum eingesetzte Technologie übernimmt
-schon heute Kernaufgaben des Bibliothekars/der Bibliothekarin. Bei der
+schon heute Kernaufgaben von Bibliothekar\*innen. Bei der
 Klassifizierung von Wissen setzt die Deutsche Nationalbibliothek[^15] schon einige Jahre lang
 auf die automatisierte Inhaltserschließung mittels linearer Regression
 und Algorithmen. Auch die Bayerische Staatsbibliothek setzt zur
