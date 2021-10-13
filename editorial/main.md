@@ -56,9 +56,7 @@ vor allem Gesundheit!
 
 \*\*\*
 
-Die LIBREAS. Library Ideas
-
-Eure / Ihre Redaktion LIBREAS. Libreas
+Eure / Ihre Redaktion LIBREAS. Libreas Ideas
 
 (Berlin, Hannover, Göttingen, Lausanne, München)
 
