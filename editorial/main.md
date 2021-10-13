@@ -1,6 +1,6 @@
-Wir widmen diese Ausgabe Christa Nowakowski (1946--2021).
+<div align="center">**Wir widmen diese Ausgabe Christa Nowakowski (1946--2021).**</div>
 
-\*\*\*
+<div align="center">\*\*\*</div>
 
 Wir haben aufgerufen zum 100-jährigen Jubiläum des Begriffs des
 "Roboters"[^1] Beiträge einzusenden und das Thema auf die
